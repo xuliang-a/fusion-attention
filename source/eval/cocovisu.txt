@@ -1,0 +1,100 @@
+train2014/COCO_train2014_000000152328.jpg	a man riding a skateboard down a road
+val2014/COCO_val2014_000000082551.jpg	a little girl sitting on a toilet in a bathroom
+train2014/COCO_train2014_000000435145.jpg	a street sign with graffiti on it
+val2014/COCO_val2014_000000571738.jpg	a person standing on a bed with a knife
+train2014/COCO_train2014_000000372862.jpg	a black and white photo of a bathroom sink
+train2014/COCO_train2014_000000224244.jpg	a young boy is standing on a skateboard
+val2014/COCO_val2014_000000213586.jpg	a woman is standing in front of a window
+train2014/COCO_train2014_000000073936.jpg	a man standing in a grassy field with a large elephant
+val2014/COCO_val2014_000000428148.jpg	a laptop computer sitting on top of a desk
+train2014/COCO_train2014_000000222990.jpg	a blue and white photo of a large window
+train2014/COCO_train2014_000000551823.jpg	a person riding a skateboard down the street
+train2014/COCO_train2014_000000318706.jpg	a black and white photo of a black and white photo
+train2014/COCO_train2014_000000540245.jpg	a row of scissors sitting on top of a table
+val2014/COCO_val2014_000000147866.jpg	a blue and white photo of a parking meter
+train2014/COCO_train2014_000000268150.jpg	a white toilet sitting on top of a toilet
+train2014/COCO_train2014_000000545213.jpg	a person is standing in a bathroom with a plant
+train2014/COCO_train2014_000000315453.jpg	a white and white photo of a large bird
+val2014/COCO_val2014_000000328238.jpg	a man playing tennis on a tennis court
+val2014/COCO_val2014_000000468197.jpg	a man is riding a wave on a surfboard
+train2014/COCO_train2014_000000263779.jpg	a view of a window with a glass of water
+train2014/COCO_train2014_000000269920.jpg	a woman is playing tennis on a tennis court
+val2014/COCO_val2014_000000257673.jpg	a view of a street sign with a tree
+val2014/COCO_val2014_000000034205.jpg	a close up of a white and white photo of a white plate
+train2014/COCO_train2014_000000522280.jpg	a kitchen with a stove and a microwave
+train2014/COCO_train2014_000000468319.jpg	a woman is playing tennis on a tennis court
+train2014/COCO_train2014_000000263311.jpg	a bathroom with a sink and a toilet
+val2014/COCO_val2014_000000050411.jpg	a dog standing in front of a window
+train2014/COCO_train2014_000000247680.jpg	a large blue and white photo of a dark room
+val2014/COCO_val2014_000000079408.jpg	a stop sign with graffiti on it
+train2014/COCO_train2014_000000561678.jpg	a bathroom with a toilet and shower
+train2014/COCO_train2014_000000494900.jpg	a man is playing tennis on a tennis court
+val2014/COCO_val2014_000000008629.jpg	a plate of food on a white plate
+val2014/COCO_val2014_000000308117.jpg	a bathroom with a sink and a sink
+val2014/COCO_val2014_000000133485.jpg	a vase with flowers in it
+val2014/COCO_val2014_000000185156.jpg	a person riding a skateboard down a street
+val2014/COCO_val2014_000000235131.jpg	a large jetliner sitting on a runway next to a building
+train2014/COCO_train2014_000000138591.jpg	a bathroom with a toilet and a shower
+train2014/COCO_train2014_000000465476.jpg	a couple of people are standing in a room
+train2014/COCO_train2014_000000327628.jpg	a street sign with a clock on it
+val2014/COCO_val2014_000000448365.jpg	a man is riding a skateboard down a hill
+train2014/COCO_train2014_000000065712.jpg	a group of people walking down the street with umbrellas
+train2014/COCO_train2014_000000413719.jpg	a person is standing in the snow with a kite
+train2014/COCO_train2014_000000565379.jpg	a group of people playing a game of wii
+train2014/COCO_train2014_000000550824.jpg	a group of people walking down a street
+train2014/COCO_train2014_000000087507.jpg	a blue and white photo of a large window
+train2014/COCO_train2014_000000562257.jpg	a group of people walking down the street with umbrellas
+val2014/COCO_val2014_000000075600.jpg	a train traveling down a city street
+train2014/COCO_train2014_000000246102.jpg	a bathroom with a toilet and a toilet
+train2014/COCO_train2014_000000377944.jpg	a woman is playing a game of wii
+val2014/COCO_val2014_000000308295.jpg	a bathroom with a toilet and a window
+train2014/COCO_train2014_000000068459.jpg	a man is playing tennis on a tennis court
+train2014/COCO_train2014_000000204216.jpg	a train is coming down the tracks
+train2014/COCO_train2014_000000462811.jpg	a piece of cake on a table next to a window
+val2014/COCO_val2014_000000075173.jpg	a bathroom with a toilet and a window
+train2014/COCO_train2014_000000252744.jpg	a person riding a skateboard down a hill
+train2014/COCO_train2014_000000104696.jpg	a clock tower with a clock on it
+train2014/COCO_train2014_000000527587.jpg	a white and white photo of a large truck
+val2014/COCO_val2014_000000162763.jpg	a white and white photo of a glass of water
+val2014/COCO_val2014_000000128224.jpg	a couple of elephants are sitting on a table
+val2014/COCO_val2014_000000424683.jpg	a bathroom with a toilet and a toilet
+train2014/COCO_train2014_000000402057.jpg	a large white and white photo of a large stuffed animal
+train2014/COCO_train2014_000000089753.jpg	a person is playing tennis on a tennis court
+train2014/COCO_train2014_000000208824.jpg	a blue and white bus is sitting on a toilet
+train2014/COCO_train2014_000000287098.jpg	a person sits on a bed with a stuffed animal
+train2014/COCO_train2014_000000395092.jpg	a group of birds are flying in the sky
+train2014/COCO_train2014_000000021846.jpg	a close up of a person in a white shirt and tie
+train2014/COCO_train2014_000000229884.jpg	a person is playing a game of frisbee
+train2014/COCO_train2014_000000382589.jpg	a bed with a bed and a bed
+val2014/COCO_val2014_000000510915.jpg	a group of zebras are standing in the water
+train2014/COCO_train2014_000000387669.jpg	a herd of zebras standing in a field
+val2014/COCO_val2014_000000370935.jpg	a person riding a skateboard down a ramp
+train2014/COCO_train2014_000000275511.jpg	a bathroom with a toilet and a toilet
+train2014/COCO_train2014_000000421229.jpg	a glass window with a glass of water
+val2014/COCO_val2014_000000560332.jpg	a bed with a bed and a bed
+train2014/COCO_train2014_000000158058.jpg	a person laying on top of a bed
+train2014/COCO_train2014_000000531998.jpg	a young boy is playing tennis on a skateboard
+train2014/COCO_train2014_000000334616.jpg	a cat laying on top of a bed
+val2014/COCO_val2014_000000240903.jpg	a white and white photo of a white toilet
+train2014/COCO_train2014_000000239739.jpg	a white bird is standing in the sky
+val2014/COCO_val2014_000000449634.jpg	a bathroom with a toilet and a window
+train2014/COCO_train2014_000000294909.jpg	a man is playing with a nintendo wii controller
+train2014/COCO_train2014_000000299527.jpg	a chocolate cake sits on top of a table
+train2014/COCO_train2014_000000560270.jpg	a group of people standing in front of a window
+train2014/COCO_train2014_000000279025.jpg	a large body of water in the water
+train2014/COCO_train2014_000000489649.jpg	a white double decker bus is parked in front of a building
+train2014/COCO_train2014_000000275631.jpg	a group of people walking down the street with umbrellas
+val2014/COCO_val2014_000000354744.jpg	a white and white photo of a large boat
+val2014/COCO_val2014_000000184531.jpg	a group of sheep parked in a field
+train2014/COCO_train2014_000000421623.jpg	a little girl is sitting on a toilet
+train2014/COCO_train2014_000000565613.jpg	a man is sitting on a bed with a stuffed animal
+train2014/COCO_train2014_000000307981.jpg	a giraffe standing in a field with trees in the background
+val2014/COCO_val2014_000000549390.jpg	a man is riding a skateboard down the street
+train2014/COCO_train2014_000000017936.jpg	a black and white photo of a stuffed animal
+val2014/COCO_val2014_000000344730.jpg	a street sign with a stop sign on it
+val2014/COCO_val2014_000000449638.jpg	a group of people walking down a street
+train2014/COCO_train2014_000000006773.jpg	a bathroom with a toilet and a toilet
+val2014/COCO_val2014_000000140702.jpg	a black and white photo of a large elephant
+train2014/COCO_train2014_000000116502.jpg	a man is playing a game of frisbee
+train2014/COCO_train2014_000000307759.jpg	a bathroom with a toilet and a sink
+val2014/COCO_val2014_000000253838.jpg	a man is playing frisbee in the air
